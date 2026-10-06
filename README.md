@@ -1,15 +1,461 @@
-# 💫 About Me:
-I’m a Java Full Stack Developer at Stackly, passionate about building scalable, efficient, and user-friendly applications. I have experience in backend development using Java, Spring Boot, REST APIs, microservices, and database management. I also enjoy frontend development using React.js, HTML, CSS, Bootstrap, and Tailwind CSS to create responsive and interactive user interfaces. I’m enthusiastic about solving problems, exploring new technologies, and collaborating with team members to develop reliable, high-quality software solutions. I’m currently enhancing my skills in Spring Boot, Apache Kafka, microservices architecture, and distributed systems.
+<div align="center">
 
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:4C1D95,65:6D28D9,100:312E81&height=220&section=header&text=ANIKET%20PATIL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</a>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/AniketPatil7278) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-patil-405a67256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketpatil7278@gmail.com) 
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Scalable+%26+Secure+Enterprise+Systems;Designing+Products+with+Engineering+Excellence" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aniketpatil7278-aniket&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aniketpatil7278-aniket&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketpatil7278-aniket&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.gitam.edu/">
+  <img src="https://img.shields.io/badge/MCA-2023--2025-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+</a>
+<a href="https://www.kletech.ac.in/">
+  <img src="https://img.shields.io/badge/BCA-2020--2023-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+<a href="https://www.google.com/maps/search/?api=1&query=India">
+  <img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aniketpatil7278@gmail.com">
+  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Aniketpatil7278-aniket">
+  <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aniketpatil7278-aniket&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Aniketpatil7278-aniket?style=for-the-badge&color=4C1D95&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Aniketpatil7278-aniket?style=for-the-badge&color=312E81&label=STARS" />
+
+</div>
+
+---
+
+## About
+
+I am a **Software Engineer and Full Stack Developer** focused on designing, building, and evolving reliable software systems with a strong emphasis on **clean architecture, scalability, security, and maintainability**.
+
+My engineering interests span **backend engineering, distributed systems, AI/ML, full-stack product development, cloud-native applications, and developer tooling**. I enjoy transforming complex business requirements into well-structured technical solutions and building products that are both technically robust and practical for real users.
+
+My core engineering approach combines:
+
+- **Software Engineering** — clean architecture, SOLID principles, RESTful APIs, modular design, testing, and maintainable codebases
+- **AI / ML** — intelligent applications, AI-assisted workflows, data-driven systems, and practical machine-learning integration
+- **Full Stack Development** — modern React interfaces backed by Java/Spring Boot, Node.js, and API-driven architectures
+- **Backend Engineering** — Spring Boot, microservices, event-driven architecture, Kafka, authentication, authorization, and database design
+- **Product Engineering** — converting product requirements into scalable, secure, measurable, and user-focused software
+- **Cloud & DevOps** — containerization, CI/CD, cloud services, observability, deployment automation, and production engineering
+
+### Open To
+
+**Software Engineering · Backend Engineering · Full Stack Development · AI Engineering · Java/Spring Boot · Distributed Systems · Product Engineering · Open Source**
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,sql,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui,figma" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgres,hibernate" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,github,githubactions,linux,postman,vscode,idea" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **AI Engineering** | Advanced | Designing AI-enabled application workflows and integrating intelligent capabilities into software products |
+| **Machine Learning** | Intermediate | Understanding of supervised learning, model workflows, data preparation, evaluation, and practical ML applications |
+| **Generative AI** | Intermediate | LLM-powered applications, AI assistants, prompt-driven workflows, and intelligent product experiences |
+| **AI + Full Stack** | Advanced | Integrating AI capabilities into React, Node.js, and Spring Boot applications |
+| **Data Engineering** | Intermediate | BigQuery, structured datasets, data pipelines, API-driven data processing, and analytics workflows |
+| **Intelligent Automation** | Advanced | Automating operational workflows using APIs, cloud services, event processing, and AI-assisted systems |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>01 · Warehouse Management System — Event-Driven Microservices</strong></summary>
+
+<br/>
+
+A modular enterprise warehouse platform designed around **Spring Boot microservices, Kafka-based event communication, transactional data management, authentication, and scalable service boundaries**.
+
+| Category | Details |
+|---|---|
+| **Stack** | Java · Spring Boot · Spring Data JPA · MySQL · Apache Kafka · JWT · Spring Security |
+| **Scale** | Modular microservice architecture with independently deployable business domains |
+| **Performance** | Event-driven processing, database indexing, asynchronous communication, optimized persistence |
+| **Security** | OAuth2/JWT resource-server architecture, method-level authorization, protected service endpoints |
+| **Impact** | Designed to support inbound goods, inventory processing, event propagation, and future warehouse domains |
+| **Repository** | [GitHub](https://github.com/Aniketpatil7278-aniket) |
+
+**Engineering Highlights**
+
+- Designed service boundaries around warehouse business capabilities
+- Implemented **Inbound Service** workflows for goods receipts
+- Applied **Transactional Outbox** concepts for reliable event publishing
+- Integrated **Apache Kafka** for asynchronous service communication
+- Implemented DTO-based API contracts and validation
+- Used Spring Security and JWT-based authentication
+- Designed persistence using Spring Data JPA and MySQL
+- Structured the system for future service discovery and distributed deployment
+
+**Core Skills:** `Java` `Spring Boot` `Microservices` `Kafka` `MySQL` `JPA` `Spring Security` `JWT` `REST API`
+
+</details>
+
+<details>
+<summary><strong>02 · AI Healthcare Platform</strong></summary>
+
+<br/>
+
+A modern healthcare ecosystem interface designed to provide a structured digital experience for **patients, healthcare services, medical information, authentication, and personalized healthcare workflows**.
+
+| Category | Details |
+|---|---|
+| **Stack** | React · Redux · Redux Saga · MUI · Tailwind CSS · Formik · Yup |
+| **Scale** | Modular multi-step healthcare onboarding and management experience |
+| **Performance** | Reusable components, state-driven rendering, structured application architecture |
+| **Security** | Form validation, controlled workflows, authentication-oriented architecture |
+| **Impact** | Designed to simplify patient onboarding and organize healthcare information into intuitive workflows |
+| **Repository** | [GitHub](https://github.com/Aniketpatil7278-aniket) |
+
+**Engineering Highlights**
+
+- Built reusable healthcare UI components
+- Implemented multi-step patient registration workflows
+- Designed Redux-based state persistence and navigation
+- Integrated Redux Saga for asynchronous application workflows
+- Implemented Formik and Yup validation
+- Combined Material UI and Tailwind CSS for scalable UI development
+- Designed responsive layouts across mobile, tablet, and desktop breakpoints
+- Structured medical information into modular workflow steps
+
+**Core Skills:** `React` `Redux` `Redux Saga` `MUI` `Tailwind` `Formik` `Yup` `JavaScript`
+
+</details>
+
+<details>
+<summary><strong>03 · Healthcare Mobile Application</strong></summary>
+
+<br/>
+
+A React Native healthcare application focused on creating a clean mobile experience for **onboarding, authentication, patient information, doctor discovery, and healthcare navigation**.
+
+| Category | Details |
+|---|---|
+| **Stack** | React Native · Expo · Expo Router · JavaScript · Tailwind |
+| **Scale** | Multi-screen mobile application architecture |
+| **Performance** | Component reuse, route-based navigation, responsive mobile layouts |
+| **Security** | Authentication-oriented screen architecture and validation workflows |
+| **Impact** | Designed a foundation for an accessible mobile healthcare experience |
+| **Repository** | [GitHub](https://github.com/Aniketpatil7278-aniket) |
+
+**Engineering Highlights**
+
+- Implemented Expo Router navigation
+- Created reusable onboarding and authentication components
+- Built login, OTP, password recovery, and personal information flows
+- Designed healthcare-oriented home experience
+- Implemented reusable primary UI components
+- Applied responsive mobile design principles
+- Structured application routes for scalable feature expansion
+
+**Core Skills:** `React Native` `Expo` `Expo Router` `JavaScript` `Tailwind`
+
+</details>
+
+<details>
+<summary><strong>04 · Customer Support AI Chatbot</strong></summary>
+
+<br/>
+
+An AI-powered customer support platform combining a React interface, Node.js backend, MongoDB data, and LLM-powered response generation.
+
+| Category | Details |
+|---|---|
+| **Stack** | React · Node.js · Express · MongoDB · Groq SDK |
+| **Scale** | API-driven chatbot architecture with business-domain data |
+| **Performance** | Lightweight client-server communication and asynchronous AI requests |
+| **Security** | Backend-controlled API access and database separation |
+| **Impact** | Designed to automate customer support interactions using business context |
+| **Repository** | [GitHub](https://github.com/Aniketpatil7278-aniket) |
+
+**Engineering Highlights**
+
+- Built a React-based conversational interface
+- Developed REST API endpoints using Express
+- Integrated LLM-powered response generation
+- Connected chatbot workflows with MongoDB
+- Modeled users, products, orders, inventory, and distribution data
+- Designed the application around contextual customer-support interactions
+
+**Core Skills:** `React` `Node.js` `Express` `MongoDB` `AI` `LLM`
+
+</details>
+
+<details>
+<summary><strong>05 · Logistics & Big Data Automation Platform</strong></summary>
+
+<br/>
+
+A logistics automation workflow integrating **Google Apps Script, BigQuery, Google Cloud Storage, QR-code processing, dynamic forms, and automated PDF generation**.
+
+| Category | Details |
+|---|---|
+| **Stack** | Google Apps Script · BigQuery · Google Cloud Storage · JavaScript · HTML5 |
+| **Scale** | Data-driven logistics and parcel-processing workflow |
+| **Performance** | Automated validation, QR processing, database queries, and document generation |
+| **Security** | Controlled cloud data workflows and backend-driven processing |
+| **Impact** | Automated operational logistics workflows and reduced manual processing |
+| **Repository** | [GitHub](https://github.com/Aniketpatil7278-aniket) |
+
+**Engineering Highlights**
+
+- Built QR-based parcel processing
+- Integrated BigQuery for operational data
+- Connected Google Cloud Storage for generated documents
+- Automated PDF generation using jsPDF and AutoTable
+- Implemented duplicate QR detection
+- Designed logistics load/unload workflows
+- Built structured web forms for operational teams
+
+**Core Skills:** `JavaScript` `BigQuery` `GCP` `Google Apps Script` `QR` `Data Automation`
+
+</details>
+
+---
+
+## Experience
+
+### Software Developer Intern
+
+**Software Development · 3 Months**
+
+Developed and supported software solutions involving **Wix/Velo, Google Apps Script, Node.js, Express, BigQuery, and cloud-based data workflows**.
+
+**Scope of Work**
+
+- Developed application functionality using JavaScript and Node.js
+- Built backend workflows using Express
+- Worked with Google Apps Script for business automation
+- Integrated BigQuery for structured data processing
+- Developed operational workflows and data-driven interfaces
+- Worked on logistics-oriented application requirements
+- Improved application workflows through reusable and maintainable implementation
+- Collaborated across frontend, backend, and data-processing layers
+
+**Skills**
+
+`JavaScript` `Node.js` `Express` `Wix` `Velo` `Google Apps Script` `BigQuery` `GCP`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **MCA Academic Achievement** | Completed postgraduate computer applications studies with a strong software engineering focus |
+| **Full Stack Engineering** | Built applications across frontend, backend, database, cloud, and API layers |
+| **Enterprise Architecture** | Designed Spring Boot microservices using Kafka, JWT, JPA, and MySQL |
+| **AI Engineering** | Built and explored AI-powered application workflows and customer-support automation |
+| **Cloud & Data Engineering** | Worked with BigQuery, Google Cloud Storage, and application automation |
+| **Product Engineering** | Developed healthcare, logistics, warehouse, and customer-support solutions |
+| **Continuous Learning** | Actively expanding expertise across distributed systems, cloud engineering, AI, and modern software architecture |
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+<p align="left">
+<a href="https://www.credly.com/">
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Cloud%20Engineering-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+</p>
+
+### Oracle
+
+<p align="left">
+<a href="https://education.oracle.com/">
+<img src="https://img.shields.io/badge/Oracle-Database%20%26%20Java-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+</p>
+
+### NPTEL
+
+<p align="left">
+<a href="https://nptel.ac.in/">
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" />
+</a>
+</p>
+
+### Cisco
+
+<p align="left">
+<a href="https://www.netacad.com/">
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+</p>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" height="42" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42" />
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coding-312E81?style=for-the-badge&logo=hackerrank&logoColor=white" height="42" />
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white" height="42" />
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aniketpatil7278-aniket&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&hide_border=true&langs_count=8&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img src="https://streak-stats.demolab.com?user=Aniketpatil7278-aniket&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+</a>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img src="https://github-profile-trophy.vercel.app/?username=Aniketpatil7278-aniket&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketpatil7278-aniket&bg_color=0D0221&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
+</a>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<a href="https://github.com/Aniketpatil7278-aniket">
+<img src="https://raw.githubusercontent.com/Aniketpatil7278-aniket/Aniketpatil7278-aniket/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</a>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Distributed Systems
+  - Advanced Spring Boot
+  - Microservices Architecture
+  - AI Engineering
+  - Machine Learning
+  - Cloud-Native Architecture
+  - System Design
+
+Building:
+  - Enterprise Warehouse Management Systems
+  - AI-Powered Applications
+  - Healthcare Platforms
+  - Event-Driven Microservices
+  - Developer-Focused Products
+
+Exploring:
+  - Generative AI
+  - LLM Applications
+  - Kafka & Event Streaming
+  - Kubernetes
+  - AWS
+  - System Design
+  - Production Engineering
+
+Open To:
+  - Software Engineering
+  - Backend Engineering
+  - Full Stack Development
+  - AI Engineering
+  - Java / Spring Boot Opportunities
+  - Product Engineering
+  - Open Source Collaboration
