@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:4C1D95,65:6D28D9,100:312E81&height=220&section=header&text=ANIKET%20PATIL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:4C1D95,65:6D28D9,100:312E81&height=220&section=header&text=ANIKET%20PATIL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Scalable+%26+Secure+Enterprise+Systems;Designing+Products+with+Engineering+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full+Stack+Developer;Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+%26+Secure+Enterprise+Systems;Designing+Products+with+Engineering+Excellence" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,16 +49,16 @@
 
 I am a **Software Engineer and Full Stack Developer** focused on designing, building, and evolving reliable software systems with a strong emphasis on **clean architecture, scalability, security, and maintainability**.
 
-My engineering interests span **backend engineering, distributed systems, AI/ML, full-stack product development, cloud-native applications, and developer tooling**. I enjoy transforming complex business requirements into well-structured technical solutions and building products that are both technically robust and practical for real users.
+My engineering interests span **backend engineering, distributed systems, full-stack development, cloud-native applications, AI-enabled software, and developer tooling**. I enjoy transforming complex business requirements into well-structured technical solutions and building products that are both technically robust and practical for real users.
 
 My core engineering approach combines:
 
 - **Software Engineering** — clean architecture, SOLID principles, RESTful APIs, modular design, testing, and maintainable codebases
-- **AI / ML** — intelligent applications, AI-assisted workflows, data-driven systems, and practical machine-learning integration
+- **Backend Engineering** — Spring Boot, microservices, Kafka, authentication, authorization, and database design
 - **Full Stack Development** — modern React interfaces backed by Java/Spring Boot, Node.js, and API-driven architectures
-- **Backend Engineering** — Spring Boot, microservices, event-driven architecture, Kafka, authentication, authorization, and database design
-- **Product Engineering** — converting product requirements into scalable, secure, measurable, and user-focused software
+- **AI Engineering** — AI-powered applications, intelligent workflows, LLM integrations, and automation
 - **Cloud & DevOps** — containerization, CI/CD, cloud services, observability, deployment automation, and production engineering
+- **Product Engineering** — converting product requirements into scalable, secure, measurable, and user-focused software
 
 ### Open To
 
@@ -91,19 +91,6 @@ My core engineering approach combines:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,github,githubactions,linux,postman,vscode,idea" />
 </p>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **AI Engineering** | Advanced | Designing AI-enabled application workflows and integrating intelligent capabilities into software products |
-| **Machine Learning** | Intermediate | Understanding of supervised learning, model workflows, data preparation, evaluation, and practical ML applications |
-| **Generative AI** | Intermediate | LLM-powered applications, AI assistants, prompt-driven workflows, and intelligent product experiences |
-| **AI + Full Stack** | Advanced | Integrating AI capabilities into React, Node.js, and Spring Boot applications |
-| **Data Engineering** | Intermediate | BigQuery, structured datasets, data pipelines, API-driven data processing, and analytics workflows |
-| **Intelligent Automation** | Advanced | Automating operational workflows using APIs, cloud services, event processing, and AI-assisted systems |
 
 ---
 
@@ -370,53 +357,17 @@ Developed and supported software solutions involving **Wix/Velo, Google Apps Scr
 <div align="center">
 
 <a href="https://github.com/Aniketpatil7278-aniket">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aniketpatil7278-aniket&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aniketpatil7278-aniket&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Aniketpatil7278-aniket">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&hide_border=true&langs_count=8&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&langs_count=8&hide_border=true&hide=html,css&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&cache_seconds=1800" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Aniketpatil7278-aniket">
-<img src="https://streak-stats.demolab.com?user=Aniketpatil7278-aniket&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
-</a>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img src="https://github-profile-trophy.vercel.app/?username=Aniketpatil7278-aniket&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
-</a>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketpatil7278-aniket&bg_color=0D0221&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
-</a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img src="https://raw.githubusercontent.com/Aniketpatil7278-aniket/Aniketpatil7278-aniket/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Aniketpatil7278-aniket&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 </a>
 
 </div>
