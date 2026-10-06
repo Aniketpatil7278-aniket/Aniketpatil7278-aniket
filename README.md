@@ -71,7 +71,7 @@ My core engineering approach combines:
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,springBoot,python,javascript,php,sql,html,css" />
 </p>
 
 ### Frontend
@@ -89,7 +89,7 @@ My core engineering approach combines:
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,github,githubactions,linux,postman,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=docker,kafka,git,github,githubactions,postman,vscode,idea" />
 </p>
 
 ---
