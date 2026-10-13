@@ -352,26 +352,24 @@ Developed and supported software solutions involving **Wix/Velo, Google Apps Scr
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aniketpatil7278-aniket&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6&cache_seconds=1800" />
-</a>
+  <a href="https://github.com/Aniketpatil7278-aniket">
+    <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Aniketpatil7278-aniket&show_icons=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Aniketpatil7278-aniket">
+    <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" alt="Top Languages" />
+  </a>
 
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&langs_count=8&hide_border=true&hide=html,css&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&cache_seconds=1800" />
-</a>
+  <br/><br/>
 
-<br/><br/>
-
-<a href="https://github.com/Aniketpatil7278-aniket">
-<img src="https://streak-stats.demolab.com/?user=Aniketpatil7278-aniket&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
-</a>
+  <a href="https://github.com/Aniketpatil7278-aniket">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=Aniketpatil7278-aniket&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" />
+  </a>
 
 </div>
-
 ---
 
 ## Current Focus
