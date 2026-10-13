@@ -362,12 +362,10 @@ Developed and supported software solutions involving **Wix/Velo, Google Apps Scr
  <a href="https://github.com/Aniketpatil7278-aniket">
   <img
     height="200"
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&cache_seconds=1800"
-    alt="Most Used Programming Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketpatil7278-aniket&layout=compact&langs_count=6&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF&cache_seconds=1800"
+    alt="Most Used Languages"
   />
 </a>
-
   <br/><br/>
 
   <a href="https://github.com/Aniketpatil7278-aniket">
